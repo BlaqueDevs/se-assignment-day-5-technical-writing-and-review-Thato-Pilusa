@@ -30,7 +30,8 @@
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
     Plain language ensures that your content is understandable to a wider audience, 
     including those without technical expertise. It reduces confusion, improves accessibility, 
-    and helps users achieve their goals (e.g., using a product or solving a problem) without needing additional help.
+    and helps users achieve their goals (e.g., using a product or solving a problem) without 
+    needing additional help.
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
     -Instead of "initiate the process," say "start the process."
@@ -71,7 +72,8 @@
     -A quick start guide or link to more detailed instructions.
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
-    -Use a single sentence to describe the product’s purpose (e.g., "This tool helps you organize tasks efficiently").
+    -Use a single sentence to describe the product’s purpose (e.g., "This tool helps 
+    organize tasks efficiently").
     -List key features in bullet points for easy scanning.
     -Highlight the main benefit or problem it solves.
     -Use simple, direct language to avoid confusion.
